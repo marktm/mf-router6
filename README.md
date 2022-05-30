@@ -1,4 +1,4 @@
-# Turborepo starter with pnpm
+# Turborepo starter with pnpm ([jherr](https://github.com/jherr))
 
 This is an official starter turborepo.
 
